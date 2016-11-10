@@ -1,0 +1,26 @@
+{
+  "name": "mah-jong",
+  "version": "1.0.0",
+  "description": "mah-jong",
+  "main": "./lib/mah-jong.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonTian/mah-jong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacksonTian/mah-jong/issues"
+  },
+  "homepage": "https://github.com/JacksonTian/mah-jong#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.1.2"
+  }
+}
