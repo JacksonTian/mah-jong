@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/JacksonTian/mah-jong#readme",
   "devDependencies": {
-    "doxmate": "^0.3.0",
+    "doxmate": "^0.3.1",
     "expect.js": "^0.3.1",
     "istanbul": "^0.4.5",
     "mocha": "^3.1.2"
